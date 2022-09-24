@@ -20,4 +20,7 @@
   - [00003-medium-omit](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00003-medium-omit)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00003-medium-omit/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00003-medium-omit/test.ts)
+  - [00008-medium-readonly-2](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00008-medium-readonly-2)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00008-medium-readonly-2/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00008-medium-readonly-2/test.ts)
 <!--filetoc-end-->
