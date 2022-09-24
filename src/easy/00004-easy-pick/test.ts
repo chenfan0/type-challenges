@@ -1,4 +1,4 @@
-import type { Equal, Expect } from '../../../utilis'
+import type { Equal, Expect } from '../../../utils'
 import type { MyPick } from './index'
 type cases = [
   Expect<Equal<Expected1, MyPick<Todo, 'title'>>>,

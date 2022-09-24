@@ -1,6 +1,6 @@
 
 
-import type { Equal, Expect } from '../../../utilis'
+import type { Equal, Expect } from '../../../utils'
 import { MyReturnType } from './index'
 
 type cases = [
