@@ -27,4 +27,7 @@
     - [README.md](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00009-medium-deep-readonly/README.md)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00009-medium-deep-readonly/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00009-medium-deep-readonly/test.ts)
+  - [00010-medium-tuple-to-union](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union/test.ts)
 <!--filetoc-end-->
