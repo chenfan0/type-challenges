@@ -34,4 +34,7 @@
   - [00010-medium-tuple-to-union](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00010-medium-tuple-to-union/test.ts)
+  - [00012-medium-chainable-options](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options/test.ts)
 <!--filetoc-end-->
