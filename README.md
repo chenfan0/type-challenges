@@ -40,4 +40,7 @@
   - [00012-medium-chainable-options](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00012-medium-chainable-options/test.ts)
+  - [00015-medium-last](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last/test.ts)
 <!--filetoc-end-->
