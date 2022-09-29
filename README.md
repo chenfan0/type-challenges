@@ -43,4 +43,7 @@
   - [00015-medium-last](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00015-medium-last/test.ts)
+  - [00016-medium-pop](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop/test.ts)
 <!--filetoc-end-->
