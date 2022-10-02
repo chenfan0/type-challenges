@@ -49,4 +49,7 @@
   - [00016-medium-pop](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop)
     - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop/index.ts)
     - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00016-medium-pop/test.ts)
+  - [00020-medium-promise-all](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00020-medium-promise-all)
+    - [index.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00020-medium-promise-all/index.ts)
+    - [test.ts](https://github.com/chenfan0/type-challenges/tree/main/src/medium/00020-medium-promise-all/test.ts)
 <!--filetoc-end-->
